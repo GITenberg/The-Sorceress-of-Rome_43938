@@ -1,0 +1,43 @@
+_repo: The-Sorceress-of-Rome_43938
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Verburg, P.
+    gutenberg_agent_id: '40343'
+    url: http://www.gutenberg.org/2009/agents/40343
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+covers:
+- cover_type: archival
+  image_path: 43938-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gallizier, Nathan
+    birthdate: 1866
+    deathdate: 1927
+    gutenberg_agent_id: '40342'
+    url: http://www.gutenberg.org/2009/agents/40342
+description: ''
+gutenberg_issued: '2013-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Otto III, Holy Roman Emperor, 980-1002 -- Fiction'
+- !lcsh 'Holy Roman Empire -- History -- Otto III, 983-1002 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Rome (Italy) -- History -- 476-1420 -- Fiction'
+title: The Sorceress of Rome
+url: http://www.gutenberg.org/ebooks/43938
